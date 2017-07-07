@@ -1,7 +1,7 @@
 /*
   Brute Force Attack 4 ^ 8 Remote Control
   
-  https://github.com/ZMOM1031/bruteforce3-8remote
+  https://github.com/iternull/bruteforce3-8remote
   
 */
 
